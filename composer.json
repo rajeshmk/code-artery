@@ -1,0 +1,9 @@
+{
+    "name": "codeartery/codeartery",
+    "description": "CodeArtery Utility Package",
+    "require": {
+        "php": "^8.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
