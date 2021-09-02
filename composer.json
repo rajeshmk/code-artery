@@ -2,7 +2,8 @@
     "name": "codeartery/codeartery",
     "description": "CodeArtery Utility Package",
     "require": {
-        "php": "^8.0"
+        "php": "^8.0",
+        "codeartery/core": "dev-master"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
