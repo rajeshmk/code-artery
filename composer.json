@@ -3,7 +3,7 @@
     "description": "CodeArtery Utility Package",
     "require": {
         "php": "^8.0|^8.1",
-        "codeartery/core": "dev-main"
+        "codeartery/core": "^1.0"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
